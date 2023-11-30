@@ -1381,7 +1381,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://gitcode.net/xiesimo/my/-/raw/master/live_1_.txt",
+      "url": "https://raw.githubusercontent.com/xiesimo/123/main/test.m3u",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
