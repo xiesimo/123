@@ -1050,26 +1050,6 @@ BesTV4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/0000000100000006000000000000
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
-影视,#genre#
-CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-科幻动作经典喜剧,http://epg.112114.xyz/douyu/4332
-经典科幻动作灾难,http://epg.112114.xyz/douyu/252802
-科幻影视,http://epg.112114.xyz/douyu/3508304
-60帧极致蓝光,http://epg.112114.xyz/douyu/747764
-经典神剧,http://epg.112114.xyz/douyu/3700024
-华语经典,http://epg.112114.xyz/douyu/434971
-1905国际,http://47.109.155.164/vv/1905.php?id=1905a
-1905国内,http://47.109.155.164/vv/1905.php?id=1905b
-欢笑剧场4K,http://193.233.206.48/电视直播源分享群-212710857.php?/PLTV/&auth=231018&ip=&id=hxjc
-欢笑剧场4K,http://193.233.206.48/电视直播源分享群-212710857.php?/PLTV/&auth=231018&ip=&id=hxjc4k
-都市剧场,http://193.233.206.48/电视直播源分享群-212710857.php?/PLTV/&auth=231018&ip=&id=dsjc
-星光影院,http://193.233.206.48/电视直播源分享群-212710857.php?/PLTV/&auth=231018&ip=&id=xgyy
-谍战剧场,http://193.233.206.48/电视直播源分享群-212710857.php?/PLTV/&auth=231018&ip=&id=dzjc
-华语影院,http://193.233.206.48/电视直播源分享群-212710857.php?/PLTV/&auth=231018&ip=&id=hyyy
-全球大片,http://193.233.206.48/电视直播源分享群-212710857.php?/PLTV/&auth=231018&ip=&id=qqdp
-热门剧场,http://193.233.206.48/电视直播源分享群-212710857.php?/PLTV/&auth=231018&ip=&id=rmjc$
-东方影视,http://193.233.206.48/电视直播源分享群-212710857.php?/PLTV/&auth=231018&ip=&id=dfys$
 
 体育,#genre#
 五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8?
