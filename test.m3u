@@ -488,8 +488,7 @@ CCTV-17*农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/ind
 
 
 中国港澳,#genre#
-三立INEWS,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1713464148/ei/9A4hZpmtLpujkucProCs8As/ip/40.79.246.239/id/CKjSm5ZeehE.85/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-p5qlsn76.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f22CHOEvIUs1mjrhHX5BytUK2zjBopAt/vprv/1/playlist_type/DVR/mh/Pu/mm/44/mn/sn-p5qlsn76/ms/lva/mv/u/mvi/3/pl/19/dover/11/pacing/0/keepalive/yes/mt/1713442148/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhALqbUwfe5nbqRsElTTqcKAr-VJZun0iR3QBXBKMLETjsAiBQwhSvrcwTzJ-eicTO9Z4BAFSKaGyRdmqfXgXUWZVQrg%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIhANWryUFklm4ve8yCsLzHj8VsJcFGO0xSTWdJLdkwqjPEAiAxkiGly4a_xkQAiuKmE01ExaOij9QJ-SQHXdj6xss6XQ%3D%3D/playlist/index.m3u8
-寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+三立INEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 东森财经新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 运通财经,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 信大,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
