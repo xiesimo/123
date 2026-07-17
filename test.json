@@ -1381,7 +1381,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "http://113.142.217.182:50000/test.m3u8",
+      "url": "http://113.142.217.248:50001/test.m3u8",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
