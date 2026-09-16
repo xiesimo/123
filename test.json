@@ -1381,7 +1381,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "http://103.236.98.166:8848/test.m3u8",
+      "url": "http://103.236.98.166:8848/1.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
